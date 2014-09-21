@@ -1,0 +1,8 @@
+C:\Dev\CsQueryExample\CsQueryExample\obj\x86\Debug\CsQueryExample.csprojResolveAssemblyReference.cache
+C:\Dev\CsQueryExample\CsQueryExample\bin\Debug\CsQueryExample.exe.config
+C:\Dev\CsQueryExample\CsQueryExample\bin\Debug\CsQueryExample.exe
+C:\Dev\CsQueryExample\CsQueryExample\bin\Debug\CsQueryExample.pdb
+C:\Dev\CsQueryExample\CsQueryExample\bin\Debug\CsQuery.dll
+C:\Dev\CsQueryExample\CsQueryExample\bin\Debug\CsQuery.xml
+C:\Dev\CsQueryExample\CsQueryExample\obj\x86\Debug\CsQueryExample.exe
+C:\Dev\CsQueryExample\CsQueryExample\obj\x86\Debug\CsQueryExample.pdb
